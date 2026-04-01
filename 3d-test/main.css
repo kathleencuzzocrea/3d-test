@@ -5,3 +5,16 @@ body{
 #strawberry{
     height: 400px;
 }
+
+div{
+    /* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 10.71%;
+
+background: #ED1761;
+
+}
